@@ -1,4 +1,4 @@
-# AIRS CH₄ Data Processing Workflow
+# AIRS Surface CH₄ Data Processing Workflow
 
 This repository contains a set of scripts to download, process, and visualize surface-level methane (CH₄) data from the TROPESS/AIRS mission. The workflow fetches Level 2 summary data, calculates monthly averages on a defined grid, and produces a final map suitable for analysis and reports.
 
