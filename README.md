@@ -88,3 +88,5 @@ This will create a final, cropped image named ```airs_ch4mx_idn_01.png```.
 - ```code/get_data_all.sh```: Downloads all .nc files for a specified year from the TROPESS data server using wget.
 - ```code/process.py```: A Python script that reads the downloaded NetCDF files for a given month, performs interpolation and averaging, and saves the results as a gridded NetCDF file and a PNG map.
 - ```code/crop_png.sh```: A shell script that uses ImageMagick to overlay a logo and crop the generated PNG map for final presentation.
+
+![](https://github.com/alberthnahas/airs-ch4/blob/main/ch4-indonesia.gif)
