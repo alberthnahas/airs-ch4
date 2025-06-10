@@ -1,12 +1,3 @@
-**********************************************************************************************
-* This is a GrADS script to visualize  CO2 mixing ratio for Indonesia                        *
-* Outputs of this script are monthly maps with temporal resolution of 0.5deg                 *
-* Created by: Alberth Nahas (alberth.nahas@bmkg.go.id)                                   *
-* Version 1.0 (2022-05-14 10:00 am WIB)                                                      *
-* Changes from previous versions:                                                            *
-*    - Not changes made                                                                      *
-**********************************************************************************************
-
 reinit
 
 
